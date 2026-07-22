@@ -1,1 +1,8 @@
+pandas
+scikit-learn
+joblib
+transformers
+tenacity
+numpy
+python-dotenv
 
